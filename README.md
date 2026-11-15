@@ -1,4 +1,4 @@
-# Eubert Borromeo – Portfolio
+# Portfolio
 
 Static portfolio built with Next.js 15 (App Router), React 19, TypeScript and Tailwind CSS 4. It exports to plain HTML.
 
